@@ -2,3 +2,7 @@ baseURL = '/'
 languageCode = 'pl-pl'
 title = 'Dokumentacja WZiMong Us'
 theme = 'hugo-book'
+
+[params]
+	BookTheme = 'auto'
+	BookLogo = 'images/icon.png'
