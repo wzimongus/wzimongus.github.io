@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'pl-pl'
+title = 'Dokumentacja WZiMong Us'
+theme = 'hugo-book'
