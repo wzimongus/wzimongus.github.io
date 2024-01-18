@@ -21,7 +21,10 @@ W naszej wersji, gracze są studentami SGGW, którzy muszą stawić czoła wyzwa
 
 - [Specyfikacja projektu](/files/specyfikacja_projektu.pdf)
 - [Instrukcja obsługi](/files/instrukcja_obslugi.pdf)
+- [Diagram przypadków użycia](/files/diagram_przypadkow_uzycia.pdf)
 - [Diagram aktywności](/files/diagram_aktywnosci.pdf)
+- [Diagram sekwencji](/files/diagram_sekwencji.pdf)
+- [Diagram klas](/files/diagram_klas.pdf)
 - [Scenariusze testowe](/files/scenariusze_testowe.xlsx)
 - [Protokoły testowe](/files/protokoly_testowe.xlsx)
 - [Wyniki testów](/files/wyniki_testow.xlsx)
